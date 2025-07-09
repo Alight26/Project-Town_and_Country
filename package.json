@@ -1,0 +1,29 @@
+{
+  "name": "project-town_and_country",
+  "version": "1.0.0",
+  "description": "Making a restaurant page trying to recreate my workplaces website and using it as a template for inspiration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alight26/Project-Town_and_Country.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alight26/Project-Town_and_Country/issues"
+  },
+  "homepage": "https://github.com/Alight26/Project-Town_and_Country#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.100.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
